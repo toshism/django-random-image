@@ -26,6 +26,7 @@ Note: Passing a path to the template tag will always override the RANDOM_IMAGE_D
 **RANDOM_IMAGE_EXTENSIONS**
 
 Default: ['.jpg','.jpeg','.png','.gif']
+
 A list containing extensions to be considered when choosing a random image.
 
 
